@@ -10,8 +10,14 @@
             "height":100
         },
         "logo":"https://raw.githubusercontent.com/IDerevyansky/CV/e88e92ee39a2461800c1b8222d991d6b25df9b55/my-cv/src/app/lib/img/sber.svg",
-        "list":["https://raw.githubusercontent.com/IDerevyansky/CV/master/my-cv/src/app/lib/slides/sber/sber%5B1%5D.jpg","https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/sber/sber%5B2%5D.jpg?raw=true","https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/sber/sber%5B3%5D.jpg?raw=true","https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/sber/sber%5B4%5D.jpg?raw=true","https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/sber/sber%5B5%5D.jpg?raw=true","https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/sber/sber%5B6%5D.jpg?raw=true"]
-    },
+        "list":[
+        "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/sber/sber%5B1%5D.jpg",
+        "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/sber/sber%5B2%5D.jpg",
+        "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/sber/sber%5B3%5D.jpg",
+        "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/sber/sber%5B4%5D.jpg",
+        "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/sber/sber%5B5%5D.jpg",
+        "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/sber/sber%5B6%5D.jpg"]
+    },         
     {
         "visible":"false",
         "priority":"false",
@@ -23,7 +29,10 @@
             "height":100
         },
         "logo":"https://raw.githubusercontent.com/IDerevyansky/CV/e88e92ee39a2461800c1b8222d991d6b25df9b55/my-cv/src/app/lib/img/alpari.svg",
-        "list":["https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/alpariMobile/AlpariMobile%5B1%5D.jpg?raw=true","https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/alpariMobile/AlpariMobile%5B2%5D.jpg?raw=true","https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/alpariMobile/AlpariMobile%5B3%5D.jpg?raw=true"]
+        "list":[
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariMobile/AlpariMobile%5B1%5D.jpg",
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariMobile/AlpariMobile%5B2%5D.jpg",
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariMobile/AlpariMobile%5B3%5D.jpg"]
     },
     {
         "visible":"false",
@@ -36,7 +45,12 @@
             "height":230
         },
         "logo":"https://raw.githubusercontent.com/IDerevyansky/CV/e88e92ee39a2461800c1b8222d991d6b25df9b55/my-cv/src/app/lib/img/AlpariTrueBroker.svg",
-        "list":["https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/trueBroker/trueBroker%5B1%5D.jpg?raw=true","https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/trueBroker/trueBroker%5B2%5D.jpg?raw=true","https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/trueBroker/trueBroker%5B3%5D.jpg?raw=true", "https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/trueBroker/trueBroker%5B4%5D.jpg?raw=true", "https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/trueBroker/trueBroker%5B5%5D.jpg?raw=true"]
+        "list":[
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/trueBroker/trueBroker%5B1%5D.jpg",
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/trueBroker/trueBroker%5B2%5D.jpg",
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/trueBroker/trueBroker%5B3%5D.jpg",
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/trueBroker/trueBroker%5B4%5D.jpg",
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/trueBroker/trueBroker%5B5%5D.jpg"]
     },
     {
         "visible":"false",
@@ -49,7 +63,11 @@
             "height":100
         },
         "logo":"https://raw.githubusercontent.com/IDerevyansky/CV/e88e92ee39a2461800c1b8222d991d6b25df9b55/my-cv/src/app/lib/img/alpari.svg",
-        "list":["https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/alpariLP/AlpariLandingPage%5B1%5D.jpg?raw=true","https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/alpariLP/AlpariLandingPage%5B2%5D.jpg?raw=true", "https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/alpariLP/AlpariLandingPage%5B3%5D.jpg?raw=true","https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/alpariLP/AlpariLandingPage%5B4%5D.jpg?raw=true"]
+        "list":[
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariLP/AlpariLandingPage%5B1%5D.jpg",
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariLP/AlpariLandingPage%5B2%5D.jpg", 
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariLP/AlpariLandingPage%5B3%5D.jpg",
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariLP/AlpariLandingPage%5B4%5D.jpg"]
     },
     {
         "visible":"false",
@@ -62,7 +80,10 @@
             "height":100
         },
         "logo":"https://raw.githubusercontent.com/IDerevyansky/CV/e88e92ee39a2461800c1b8222d991d6b25df9b55/my-cv/src/app/lib/img/alpari.svg",
-        "list":["https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/alpariWeb/AlpariMainWebSite%5B1%5D.jpg?raw=true","https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/alpariWeb/AlpariMainWebSite%5B2%5D.jpg?raw=true","https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/alpariWeb/AlpariMainWebSite%5B3%5D.jpg?raw=true"]
+        "list":[
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariWeb/AlpariMainWebSite%5B1%5D.jpg",
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariWeb/AlpariMainWebSite%5B2%5D.jpg",
+            "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariWeb/AlpariMainWebSite%5B3%5D.jpg"]
     },
     {
         "visible":"false",
@@ -75,6 +96,6 @@
             "height":100
         },
         "logo":"https://raw.githubusercontent.com/IDerevyansky/CV/e88e92ee39a2461800c1b8222d991d6b25df9b55/my-cv/src/app/lib/img/alpari.svg",
-        "list":["https://github.com/IDerevyansky/CV/blob/master/my-cv/src/app/lib/slides/alpariLetter/EmailLetter.jpg?raw=true"]
+        "list":["https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariLetter/EmailLetter.jpg"]
     }
 ]

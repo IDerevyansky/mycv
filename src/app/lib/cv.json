@@ -9,22 +9,22 @@
             {
                 "name":"linkedin",
                 "link":"https://linkedin.com/in/iderevyansky/",
-                "url":"https://raw.githubusercontent.com/IDerevyansky/CV/d978243f503fef6421db33aa320db1d1bfc98f72/my-cv/src/app/lib/img/icon/icon_linkedin.svg"
+                "url":"https://raw.githubusercontent.com/IDerevyansky/mycv/5c47a7ddab0bcf73ccb87dad5a00c516e80f0d6e/src/app/lib/img/icon/icon_linkedin.svg"
             },
             {
                 "name":"github",
                 "link":"https://github.com/IDerevyansky",
-                "url":"https://raw.githubusercontent.com/IDerevyansky/CV/d978243f503fef6421db33aa320db1d1bfc98f72/my-cv/src/app/lib/img/icon/icon_github.svg"
+                "url":"https://raw.githubusercontent.com/IDerevyansky/mycv/5c47a7ddab0bcf73ccb87dad5a00c516e80f0d6e/src/app/lib/img/icon/icon_github.svg"
             },
             {
                 "name":"facebook",
                 "link":"https://www.facebook.com/igor.derevyansky",
-                "url":"https://raw.githubusercontent.com/IDerevyansky/CV/d978243f503fef6421db33aa320db1d1bfc98f72/my-cv/src/app/lib/img/icon/icon_facebook.svg"
+                "url":"https://raw.githubusercontent.com/IDerevyansky/mycv/5c47a7ddab0bcf73ccb87dad5a00c516e80f0d6e/src/app/lib/img/icon/icon_facebook.svg"
             },
             {
                 "name":"telegram",
                 "link":"https://t.me/iderevyansky",
-                "url":"https://raw.githubusercontent.com/IDerevyansky/CV/d978243f503fef6421db33aa320db1d1bfc98f72/my-cv/src/app/lib/img/icon/icon_telegram.svg"
+                "url":"https://raw.githubusercontent.com/IDerevyansky/mycv/5c47a7ddab0bcf73ccb87dad5a00c516e80f0d6e/src/app/lib/img/icon/icon_telegram.svg"
             } 
         ]           
     },
