@@ -1,0 +1,45 @@
+.DownloadBtn{
+    @apply
+    xs:flex
+    hidden
+    flex-row
+    gap-2
+    bg-sky-100
+    rounded-full
+    px-4
+    py-1
+    mr-5
+    cursor-pointer
+}
+
+.DownloadBtn p{
+    @apply
+    font-sans
+    font-medium
+  text-sky-600
+    text-sm
+}
+
+.DownloadBtnPopUp{
+    @apply
+    xs:hidden
+    flex
+    flex-row
+    gap-2
+    bg-sky-100
+    rounded-full
+    px-4
+    py-1
+    mt-2
+    cursor-pointer
+   
+}
+
+
+.DownloadBtnPopUp p{
+    @apply
+    font-sans
+    font-medium
+  text-sky-600
+    text-sm
+}

@@ -1,0 +1,183 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./menu/menu.css";
+
+*{
+  @apply
+  font-sans
+text-slate-800
+  /* border
+border-red-600 */
+}
+
+body {
+  @apply
+  bg-white
+}
+
+
+p, li, a, u, p span{
+  @apply
+  text-lg
+  text-slate-600
+}
+
+.font p, .font a{
+  @apply
+  text-lg
+}
+
+
+h1{
+  @apply
+  text-5xl
+  font-bold
+  text-slate-800
+}
+
+h2{
+  @apply
+  text-2xl
+  font-bold
+  text-slate-800
+}
+
+h3, h3 u, h3 u a{
+  @apply
+  text-lg
+  font-bold
+  text-slate-800
+}
+
+h4{
+  @apply
+  text-base
+  font-bold
+  text-slate-800
+}
+
+/* ----------main-page------------ */
+
+.bodyContainerAbout{
+  @apply
+  container
+  flex
+  flex-col
+  rounded-lg
+  my-2
+  mx-4
+  2xl:mx-0
+  xl:mx-0
+  lg:mx-0
+  gap-8
+  /* border
+  border-red-700 */
+  /* bg-[#F8FAFC] */
+  2xl:w-[1024px]
+  xl:w-[1024px]
+}
+
+
+
+.bodyMainContainer{
+  @apply
+  flex
+  justify-center
+}
+
+.profil{
+  @apply
+  w-full
+  flex
+  flex-col
+  gap-8
+  justify-center
+  items-center
+  sm:flex-row
+}
+
+.profilPhoto{
+  @apply
+  rounded-full
+  overflow-hidden
+}
+
+.contactInfotmation{
+  @apply
+  w-full
+  flex
+  flex-col
+  justify-center
+  text-center
+  sm:text-left
+  gap-2
+}
+
+
+.personalInfo{
+  @apply
+  container
+  border
+  rounded-lg
+  p-4
+  2xl:p-8
+  xl:p-8
+  lg:p-8
+  border-[#EBEDEF]
+  bg-[#F8FAFC]
+  2xl:w-[1024px]
+  xl:w-[1024px]
+}
+
+.socialIcon{
+  @apply
+  flex
+  flex-row
+  gap-4
+  mt-2
+  justify-center
+  sm:justify-start
+}
+
+.icon{
+  @apply
+  opacity-100
+}
+
+.arrow :last-child{
+  @apply
+  /* border
+  border-red-700 */
+  sm:w-fit 
+  text-sky-600
+  underline 
+  decoration-solid
+  after:content-['_↗']
+}
+
+
+/* :root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+} */
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+} */
+
+/* body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+} */

@@ -1,0 +1,151 @@
+.mainContainer{
+    @apply
+    bg-slate-100/50
+    backdrop-blur-md
+    sticky
+    top-0
+    border-b
+    flex
+    justify-center
+    h-11
+    z-50
+}
+
+.sizeContainer{
+    @apply
+    container
+    flex
+    flex-row
+    justify-between
+    content-center
+    h-full
+    mx-4
+    2xl:mx-0
+    xl:mx-0
+    lg:mx-0
+    2xl:w-[1024px]
+    xl:w-[1024px]
+}
+
+.leftSide{
+    @apply
+    /* border-2 */
+    flex
+    flex-row
+    items-center
+}
+
+.rightSide{
+    @apply
+    /* border-2 */
+    flex
+    flex-row
+    items-center
+}
+
+.menuItems{
+    @apply
+    hidden
+    flex-row
+    items-center
+    gap-4
+    sm:flex
+    md:flex
+}
+
+.burgerMenu{
+    @apply
+    flex
+    justify-end
+    sm:hidden
+    md:hidden
+    w-7
+    h-7
+}
+
+
+.menuItems a{
+    @apply
+    font-medium
+    text-sm
+    hover:text-sky-600
+}
+
+.leftSide a{
+    @apply
+    text-2xl
+    font-semibold
+    text-slate-800
+}
+
+/* .DownloadBtn{
+    @apply
+    xs:flex
+    hidden
+    flex-row
+    gap-2
+    bg-sky-100
+    rounded-full
+    px-4
+    py-1
+    mr-5
+    cursor-pointer
+   
+} */
+
+/* .DownloadBtn p{
+    @apply
+    font-sans
+    font-medium
+  text-sky-600
+    text-sm
+} */
+
+/* .DownloadBtnPopUp{
+    @apply
+    xs:hidden
+    flex
+    flex-row
+    gap-2
+    bg-sky-100
+    rounded-full
+    px-4
+    py-1
+    mt-2
+    cursor-pointer
+   
+} */
+
+
+/* .DownloadBtnPopUp p{
+    @apply
+    font-sans
+    font-medium
+  text-sky-600
+    text-sm
+} */
+
+/* .pdf{
+    @apply
+    text-sky-600/50
+} */
+
+.popUpMenu{
+    @apply
+    bg-[#F8FAFC]
+    shadow-lg
+    rounded-md
+    absolute
+    top-14
+    flex-col
+    text-right
+    p-4
+    gap-2
+}
+
+.popUpMenu a{
+    @apply
+    text-sm
+    font-medium
+    text-slate-800
+}

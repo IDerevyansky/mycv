@@ -1,0 +1,20 @@
+{
+    "items":[
+        {
+            "name":"About me",
+            "url":"/"
+        },
+        {
+            "name":"CV",
+            "url":"/cv"
+        },
+        {
+            "name":"Portfolio",
+            "url":"/portfolio"
+        }
+    ],
+    "btn":{
+        "name":"Download CV (.pdf)",
+        "path":"@/app/lib/Igor_Derevianskii_CV.pdf"
+    }
+}

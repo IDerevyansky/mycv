@@ -1,0 +1,105 @@
+
+.bodyMainContainer{
+    @apply
+    flex
+    justify-center
+}
+
+.bodyContainer{
+    @apply
+    container
+    border
+    rounded-lg
+    my-2
+    mx-4
+    2xl:mx-0
+    xl:mx-0
+    lg:mx-0
+    p-4
+    2xl:p-8
+    xl:p-8
+    lg:p-8
+    border-[#EBEDEF]
+    bg-[#F8FAFC]
+    2xl:w-[1024px]
+    xl:w-[1024px]
+
+}
+
+.personalInfoBox{
+    @apply
+    flex
+    flex-col
+    text-center
+}
+
+.contactInf{
+    @apply
+    flex
+    flex-col
+    sm:flex-row
+    sm:gap-6
+    justify-center
+    gap-2
+    mt-4
+}
+
+.title{
+    @apply
+    border-b
+    text-slate-200
+}
+
+.block{
+    @apply
+    mt-6
+}
+.company-position-dateExp{
+    @apply
+    flex
+    flex-row
+    justify-between
+}
+
+.company-positionExp{
+    @apply
+    flex
+    /* min-w-max */
+    flex-col
+    md:flex-row
+    md:gap-2
+    gap-0
+
+}
+
+.dateExp{
+    @apply
+    text-right
+}
+
+.expBox{
+    @apply
+    mt-5
+}
+
+.descriptionExp{
+    @apply
+    mt-2
+}
+
+.eduBox{
+    @apply
+    flex
+    flex-row
+    justify-between
+    mt-5
+}
+
+.fontEdu{
+    @apply
+    font-semibold
+}
+
+.leftSideEdu{
+
+}

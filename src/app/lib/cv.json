@@ -1,0 +1,109 @@
+{
+    "personInfo":{
+        "title":"",
+        "name":"Igor Derevianskii",
+        "phone":"+1 424 588 9880",
+        "mail":"iderevyansky@yahoo.com",
+        "address":"Palo Alto, CA",
+        "socialnetwork":[
+            {
+                "name":"linkedin",
+                "link":"https://linkedin.com/in/iderevyansky/",
+                "url":"https://raw.githubusercontent.com/IDerevyansky/CV/d978243f503fef6421db33aa320db1d1bfc98f72/my-cv/src/app/lib/img/icon/icon_linkedin.svg"
+            },
+            {
+                "name":"github",
+                "link":"https://github.com/IDerevyansky",
+                "url":"https://raw.githubusercontent.com/IDerevyansky/CV/d978243f503fef6421db33aa320db1d1bfc98f72/my-cv/src/app/lib/img/icon/icon_github.svg"
+            },
+            {
+                "name":"facebook",
+                "link":"https://www.facebook.com/igor.derevyansky",
+                "url":"https://raw.githubusercontent.com/IDerevyansky/CV/d978243f503fef6421db33aa320db1d1bfc98f72/my-cv/src/app/lib/img/icon/icon_facebook.svg"
+            },
+            {
+                "name":"telegram",
+                "link":"https://t.me/iderevyansky",
+                "url":"https://raw.githubusercontent.com/IDerevyansky/CV/d978243f503fef6421db33aa320db1d1bfc98f72/my-cv/src/app/lib/img/icon/icon_telegram.svg"
+            } 
+        ]           
+    },
+    "summary":{
+        "title":"Summary",
+        "description":"<strong>Summary</strong><br> Have a good day. I specialize in professional create user interface design and development. Over the course of my professional career, I have designed a large number of products, some of which have become flagship products for companies. My experience primarily focuses on visually processing big volumes of data, as I have dedicated a significant portion of my professional activity to the financial sector. My work involves turning complex into straightforward ones. I have been in the industry for over 12 years and hold a Bachelor of Computer Science degree, which allows me to delve deeper into the technical aspects of products. Additionally, I can in product development as a software engineer. If you are interested in my experience, then <u><a href='mailto:iderevyansky@yahoo.com' target='_black'>contact me.</a></u>"
+    },
+    "skills":{
+        "title":"Skills",
+        "list":[
+            { 
+             "title":"Proficiency Skills: ",
+             "list":["Figma", "Components", "Prototype", "Wireframe", "UI-Kit", "Framer", "FigJam", "Miro", "Sketch", "Photoshop", "Illustrator", "UX/UI", "User interface", "User Experience", "A/B Testing"]
+            },
+            {
+             "title":"Additional Skills: ",
+             "list":["Python", "Numpy", "Php", "Html", "CSS", "JavaScript", "React", "Redux", "RESTful API", "Google Chart tools", "Tailwind", "Storybook.js", "Docker", "Postman", "Git", "Composer", "Symfony", "Laravel", "Lumen", "SQL", "PostgresQL", "Cassandra", "noSQL"]
+            }
+            
+        ]  
+    },
+    "experience":{
+        "title":"Experience",
+        "list":[
+            {
+                "company":{
+                    "name":"Sber:",
+                    "link":"https://en.wikipedia.org/wiki/Sberbank"
+                },
+                "position":"Principal UX/UI Designer",
+                "date":"11/2021 - 09/2022",
+                "description":"<ul><li>Created a more responsive and user-friendly interface for many of the bank's products and systems, which resulted in increased loyalty and a <a href='https://www.sberbank.com/investor-relations/groupresults/2022'target='_blank'><u>25% growth</u></a> in customers. (Figma)</li><li>Conducting user experience research. Analyzing and identifying new user behavior trends. (Figma, Prototype, Wireframe, Framer, FigJam, Miro)</li><li>Maintained and developed the UI-Kit. (Figma, Storybook.js, React.js, Html, CSS)</li></ul>"
+            },{
+                "company":{
+                    "name":"Alpari:",
+                    "link":"https://en.wikipedia.org/wiki/Alpari_Group"
+                },
+                "position":"UX/UI Designer / Software engineer",
+                "date":"11/2019 - 11/2021",
+                "description":"<ul><li>Created a new UI kit for the company's website. (Figma-Components, Storybook.js, React.js, Html, CSS) , the UX/UI of the subsidiary company's website.  (Figma, Miro) </li><li>Created the UI and UI kit for the trading terminal application for iOS and Android. Subsequently, this product accounted for over 50% of the profit and became the company's flagship product.  (Figma (Components, Prototype, Wireframe), Miro) </li><li>Created the UX/UI and participated in the development of the company's marketing performance dashboard.  (Figma (Components, Prototype, Wireframe), Miro, Js (React, Redux, RESTful API, Google Chart tools), Html, CSS (tailwind), Docker, Postman, Git) </li></ul>"
+            },{
+                "company":{
+                    "name":"MIPT:",
+                    "link":"https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology"
+                },
+                "position":"Software engineer - Contract",
+                "date":"02/2018 - 05/2018",
+                "description":"<ul><li>Created the development of algorithms for data computation and processing big data.  (Python, Numpy) </il></ul>"
+            },{
+                "company":{
+                    "name":"ICIE:",
+                    "link":"https://www.inevm.ru/en/index.php"
+                },
+                "position":"Software engineer",
+                "date":"03/2017 - 11/2019",
+                "description":"<ul><li>Supported the legacy code of the project and writing new functionality</li><li>Was doing migrating the system from Symfony 3.0 to Laravel 10.0  (Php, SQL) </li><li>Was doing database integration and replication.  (Python, PostgresQL, Cassandra) </li><li>Created and developed the company's website UI.  (Figma, Html, CSS, JS) </li></ul>"
+            },{
+                "company":{
+                    "name":"Alpari:",
+                    "link":"https://en.wikipedia.org/wiki/Alpari_Group"
+                },
+                "position":"UX/UI Designer / Software engineer",
+                "date":"07/2013 - 02/2017",
+                "description":"<ul><li>Designed UX/UI for promotional websites and advertising banners.  (Photoshop, Figma, Sketch) </li><li>Developed landing pages and HTML banners.  (Html, CSS, JS, Php (Lumen, Composer), SQL, Git) </li></ul>"
+            }
+        ]
+    },
+    "education":{
+        "title":"Education",
+        "name":"Moscow State University of Instrument Engineering and Computer Science",
+        "specialisation":"Computers, complex systems and networks",
+        "date":"June 2010",
+        "degree":"Bachelor of Computer Science"
+    },
+    "licensesCertifications":{
+        "title":"Licenses & Certifications",
+        "name":"Principles of UX/UI Design",
+        "teacher":"Meta",
+        "link":"https://coursera.org/verify/P3XXWC4RCESJ"
+    }
+   
+}
