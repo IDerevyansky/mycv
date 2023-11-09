@@ -60,7 +60,7 @@ let iconComponent = (url, link, name, key) => {
                     <Link href={"mailto:"+DATA.personInfo.mail}>{DATA.personInfo.mail}</Link>
                     <Link href={"tel:"+DATA.personInfo.phone}>{DATA.personInfo.phone}</Link>
                     {/* <p>{DATA.personInfo.address}</p> */}
-                    <Link href='https://iderevyansky.github.io/CV/my-cv/src/app/lib/Igor_Derevianskii_CV.pdf' target='_blank'>Download CV (.pdf)</Link>
+                    <Link href={DATA.personInfo.cvLink} target='_blank'>Download CV (.pdf)</Link>
 
                   </div>
 

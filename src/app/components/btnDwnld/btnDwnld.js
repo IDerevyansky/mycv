@@ -1,4 +1,5 @@
 import dataMenu from "@/app/lib/menu.json"
+import DATA from "@/app/lib/cv.json"
 import { saveAs } from "file-saver";
 import './btnDwnld.css'
 
@@ -11,7 +12,7 @@ export default function BtnDwnld(position){
 
     const saveFile = () => {
         saveAs(
-          "https://iderevyansky.github.io/CV/my-cv/src/app/lib/Igor_Derevianskii_CV.pdf",
+          DATA.personInfo.cvLink,
           "Igor_Derevianskii_CV.pdf"
         );
       };
