@@ -42,7 +42,7 @@
             },
             {
              "title":"Additional Skills: ",
-             "list":["Python", "Numpy", "Php", "Html", "CSS", "JavaScript", "React", "Redux", "RESTful API", "Google Chart tools", "Tailwind", "Storybook.js", "Docker", "Postman", "Git", "Composer", "Symfony", "Laravel", "Lumen", "SQL", "PostgresQL", "Cassandra", "noSQL"]
+             "list":["Python", "Numpy", "Php", "Html", "CSS", "JavaScript", "React", "Next", "Redux", "RESTful API", "Google Chart tools", "Tailwind", "Storybook.js", "Docker", "Postman", "Git", "Composer", "Symfony", "Laravel", "Lumen", "SQL", "PostgresQL", "Cassandra", "noSQL"]
             }
             
         ]  
