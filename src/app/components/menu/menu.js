@@ -37,7 +37,7 @@ export default function Menu(){
 
                     <div className="menuItems">
                         {listItem.map((item, id)=>(
-                            <Link key={id} className={ pathname === item.url? 'text-sky-600' : 'text-slate-800' } href={item.url}>{item.name}</Link>
+                            <Link key={id} className={ pathname === item.url? 'text-sky-600' : 'text-slate-800' } prefetch={true} href={item.url}>{item.name}</Link>
                         ))}
                     </div>
 
@@ -52,7 +52,7 @@ export default function Menu(){
                         <div className={ isOpen == true? "popUpMenu flex" : "popUpMenu hidden" }>
 
                             {listItem.map((item, id)=>(
-                                <Link key={id} className={ pathname === item.url? 'text-sky-600' : 'text-slate-800' } href={item.url}>{item.name}</Link>
+                                <Link key={id} className={ pathname === item.url? 'text-sky-600' : 'text-slate-800' } prefetch={true} href={item.url}>{item.name}</Link>
                             ))}
 
                             <BtnDwnld position='DownloadBtnPopUp'/>
