@@ -9,7 +9,7 @@
             "width":150,
             "height":100
         },
-        "logo":"https://raw.githubusercontent.com/IDerevyansky/CV/e88e92ee39a2461800c1b8222d991d6b25df9b55/my-cv/src/app/lib/img/sber.svg",
+        "logo":"https://raw.githubusercontent.com/IDerevyansky/mycv/69f7d5e84516316cc975a051b1dbd5988837b9ce/src/app/lib/img/sber.svg",
         "list":[
         "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/sber/sber%5B1%5D.jpg",
         "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/sber/sber%5B2%5D.jpg",
@@ -19,7 +19,7 @@
         "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/sber/sber%5B6%5D.jpg"]
     },         
     {
-        "visible":"false",
+        "visible":"true",
         "priority":"false",
         "title":"Alpari Mobile",
         "description":"Lorem ipsum dolor sit amet consectetur. Aliquam et erat ullamcorper nisi quis viverra. Volutpat lectus fringilla egestas lacinia. Tristique id eu sem pellentesque. Vestibulum tellus neque vulputate amet pulvinar justo. Tortor eu ipsum proin habitant faucibus magna proin lectus. Vulputate maecenas mauris donec eu turpis. Tincidunt laoreet platea condimentum quisque maecenas vitae quis non. Non suspendisse condimentum commodo dignissim metus a turpis erat. Vehicula pulvinar dolor aliquam elementum ut. Viverra montes lacinia pharetra amet. Tempor quis integer tempor lorem egestas. Augue morbi posuere nam magna dui eu pretium malesuada ultricies. Gravida bibendum in id enim tortor cras.",
@@ -28,14 +28,14 @@
             "width":90,
             "height":100
         },
-        "logo":"https://raw.githubusercontent.com/IDerevyansky/CV/e88e92ee39a2461800c1b8222d991d6b25df9b55/my-cv/src/app/lib/img/alpari.svg",
+        "logo":"https://raw.githubusercontent.com/IDerevyansky/mycv/69f7d5e84516316cc975a051b1dbd5988837b9ce/src/app/lib/img/alpari.svg",
         "list":[
             "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariMobile/AlpariMobile%5B1%5D.jpg",
             "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariMobile/AlpariMobile%5B2%5D.jpg",
             "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariMobile/AlpariMobile%5B3%5D.jpg"]
     },
     {
-        "visible":"false",
+        "visible":"true",
         "priority":"false",
         "title":"True Broker. Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor.",
         "description":"Lorem ipsum dolor sit amet consectetur. Aliquam et erat ullamcorper nisi quis viverra. Volutpat lectus fringilla egestas lacinia. Tristique id eu sem pellentesque. Vestibulum tellus neque vulputate amet pulvinar justo. Tortor eu ipsum proin habitant faucibus magna proin lectus. Vulputate maecenas mauris donec eu turpis. Tincidunt laoreet platea condimentum quisque maecenas vitae quis non. Non suspendisse condimentum commodo dignissim metus a turpis erat. Vehicula pulvinar dolor aliquam elementum ut. Viverra montes lacinia pharetra amet. Tempor quis integer tempor lorem egestas. Augue morbi posuere nam magna dui eu pretium malesuada ultricies. Gravida bibendum in id enim tortor cras.",
@@ -44,7 +44,7 @@
             "width":220,
             "height":230
         },
-        "logo":"https://raw.githubusercontent.com/IDerevyansky/CV/e88e92ee39a2461800c1b8222d991d6b25df9b55/my-cv/src/app/lib/img/AlpariTrueBroker.svg",
+        "logo":"https://raw.githubusercontent.com/IDerevyansky/mycv/69f7d5e84516316cc975a051b1dbd5988837b9ce/src/app/lib/img/AlpariTrueBroker.svg",
         "list":[
             "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/trueBroker/trueBroker%5B1%5D.jpg",
             "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/trueBroker/trueBroker%5B2%5D.jpg",
@@ -53,7 +53,7 @@
             "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/trueBroker/trueBroker%5B5%5D.jpg"]
     },
     {
-        "visible":"false",
+        "visible":"true",
         "priority":"false",
         "title":"Alpari Landing Page. Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor.",
         "description":"Lorem ipsum dolor sit amet consectetur. Aliquam et erat ullamcorper nisi quis viverra. Volutpat lectus fringilla egestas lacinia. Tristique id eu sem pellentesque. Vestibulum tellus neque vulputate amet pulvinar justo. Tortor eu ipsum proin habitant faucibus magna proin lectus. Vulputate maecenas mauris donec eu turpis. Tincidunt laoreet platea condimentum quisque maecenas vitae quis non. Non suspendisse condimentum commodo dignissim metus a turpis erat. Vehicula pulvinar dolor aliquam elementum ut. Viverra montes lacinia pharetra amet. Tempor quis integer tempor lorem egestas. Augue morbi posuere nam magna dui eu pretium malesuada ultricies. Gravida bibendum in id enim tortor cras.",
@@ -62,7 +62,7 @@
             "width":90,
             "height":100
         },
-        "logo":"https://raw.githubusercontent.com/IDerevyansky/CV/e88e92ee39a2461800c1b8222d991d6b25df9b55/my-cv/src/app/lib/img/alpari.svg",
+        "logo":"https://raw.githubusercontent.com/IDerevyansky/mycv/69f7d5e84516316cc975a051b1dbd5988837b9ce/src/app/lib/img/alpari.svg",
         "list":[
             "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariLP/AlpariLandingPage%5B1%5D.jpg",
             "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariLP/AlpariLandingPage%5B2%5D.jpg", 
@@ -70,7 +70,7 @@
             "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariLP/AlpariLandingPage%5B4%5D.jpg"]
     },
     {
-        "visible":"false",
+        "visible":"true",
         "priority":"false",
         "title":"Alpari Web Site. Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor.",
         "description":"Lorem ipsum dolor sit amet consectetur. Aliquam et erat ullamcorper nisi quis viverra. Volutpat lectus fringilla egestas lacinia. Tristique id eu sem pellentesque. Vestibulum tellus neque vulputate amet pulvinar justo. Tortor eu ipsum proin habitant faucibus magna proin lectus. Vulputate maecenas mauris donec eu turpis. Tincidunt laoreet platea condimentum quisque maecenas vitae quis non. Non suspendisse condimentum commodo dignissim metus a turpis erat. Vehicula pulvinar dolor aliquam elementum ut. Viverra montes lacinia pharetra amet. Tempor quis integer tempor lorem egestas. Augue morbi posuere nam magna dui eu pretium malesuada ultricies. Gravida bibendum in id enim tortor cras.",
@@ -79,14 +79,14 @@
             "width":90,
             "height":100
         },
-        "logo":"https://raw.githubusercontent.com/IDerevyansky/CV/e88e92ee39a2461800c1b8222d991d6b25df9b55/my-cv/src/app/lib/img/alpari.svg",
+        "logo":"https://raw.githubusercontent.com/IDerevyansky/mycv/69f7d5e84516316cc975a051b1dbd5988837b9ce/src/app/lib/img/alpari.svg",
         "list":[
             "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariWeb/AlpariMainWebSite%5B1%5D.jpg",
             "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariWeb/AlpariMainWebSite%5B2%5D.jpg",
             "https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariWeb/AlpariMainWebSite%5B3%5D.jpg"]
     },
     {
-        "visible":"false",
+        "visible":"true",
         "priority":"false",
         "title":"Email letter. Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor.",
         "description":"Lorem ipsum dolor sit amet consectetur. Aliquam et erat ullamcorper nisi quis viverra. Volutpat lectus fringilla egestas lacinia. Tristique id eu sem pellentesque. Vestibulum tellus neque vulputate amet pulvinar justo. Tortor eu ipsum proin habitant faucibus magna proin lectus. Vulputate maecenas mauris donec eu turpis. Tincidunt laoreet platea condimentum quisque maecenas vitae quis non. Non suspendisse condimentum commodo dignissim metus a turpis erat. Vehicula pulvinar dolor aliquam elementum ut. Viverra montes lacinia pharetra amet. Tempor quis integer tempor lorem egestas. Augue morbi posuere nam magna dui eu pretium malesuada ultricies. Gravida bibendum in id enim tortor cras.",
@@ -95,7 +95,7 @@
             "width":90,
             "height":100
         },
-        "logo":"https://raw.githubusercontent.com/IDerevyansky/CV/e88e92ee39a2461800c1b8222d991d6b25df9b55/my-cv/src/app/lib/img/alpari.svg",
+        "logo":"https://raw.githubusercontent.com/IDerevyansky/mycv/69f7d5e84516316cc975a051b1dbd5988837b9ce/src/app/lib/img/alpari.svg",
         "list":["https://raw.githubusercontent.com/IDerevyansky/mycv/master/src/app/lib/slides/alpariLetter/EmailLetter.jpg"]
     }
 ]
