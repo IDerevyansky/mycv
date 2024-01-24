@@ -55,7 +55,7 @@
                     "name":"Sber:",
                     "link":"https://en.wikipedia.org/wiki/Sberbank"
                 },
-                "position":"Principal UX/UI Designer",
+                "position":"Senior UX/UI Designer",
                 "date":"11/2021 - 09/2022",
                 "description":"<ul><li>Created a more responsive and user-friendly interface for many of the bank's products and systems, which resulted in increased loyalty and a <a href='https://www.sberbank.com/investor-relations/groupresults/2022'target='_blank'><u>25% growth</u></a> in customers. (Figma)</li><li>Conducting user experience research. Analyzing and identifying new user behavior trends. (Figma, Prototype, Wireframe, Framer, FigJam, Miro)</li><li>Maintained and developed the UI-Kit. (Figma, Storybook.js, React.js, Html, CSS)</li></ul>"
             },{
@@ -63,7 +63,7 @@
                     "name":"Alpari:",
                     "link":"https://en.wikipedia.org/wiki/Alpari_Group"
                 },
-                "position":"UX/UI Designer / Software engineer",
+                "position":"UX/UI Designer / UI Engineer",
                 "date":"11/2019 - 11/2021",
                 "description":"<ul><li>Created a new UI kit for the company's website. (Figma-Components, Storybook.js, React.js, Html, CSS) , the UX/UI of the subsidiary company's website.  (Figma, Miro) </li><li>Created the UI and UI kit for the trading terminal application for iOS and Android. Subsequently, this product accounted for over 50% of the profit and became the company's flagship product.  (Figma (Components, Prototype, Wireframe), Miro) </li><li>Created the UX/UI and participated in the development of the company's marketing performance dashboard.  (Figma (Components, Prototype, Wireframe), Miro, Js (React, Redux, RESTful API, Google Chart tools), Html, CSS (tailwind), Docker, Postman, Git) </li></ul>"
             },{
@@ -87,7 +87,7 @@
                     "name":"Alpari:",
                     "link":"https://en.wikipedia.org/wiki/Alpari_Group"
                 },
-                "position":"UX/UI Designer / Software engineer",
+                "position":"UX/UI Designer / UI Engineer",
                 "date":"07/2013 - 02/2017",
                 "description":"<ul><li>Designed UX/UI for promotional websites and advertising banners.  (Photoshop, Figma, Sketch) </li><li>Developed landing pages and HTML banners.  (Html, CSS, JS, Php (Lumen, Composer), SQL, Git) </li></ul>"
             }
