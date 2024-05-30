@@ -38,7 +38,7 @@
         "list":[
             { 
              "title":"Proficiency Skills: ",
-             "list":["Figma", "Components", "Prototype", "Wireframe", "CJM", "UI-Kit", "Framer", "FigJam", "Miro", "Sketch", "Photoshop", "Illustrator", "UX/UI", "User interface", "User Experience", "User Research" ,"A/B Testing", "Agile Methodology"]
+             "list":["Figma", "Components", "Prototype", "Wireframe", "ProtoPie", "CJM", "UI-Kit", "Framer", "FigJam", "Miro", "Sketch", "Photoshop", "Illustrator", "UX/UI", "User interface", "User Experience", "User Research" ,"A/B Testing", "Agile Methodology"]
             },
             {
              "title":"Additional Skills: ",
@@ -52,11 +52,19 @@
         "list":[
             {
                 "company":{
+                    "name":"Stealth Startup:",
+                    "link":"https://en.wikipedia.org/wiki/Stealth_startup"
+                },
+                "position":"UX/UI Designer",
+                "date":"San Francisco Bay Area | 11/2023 - 05/2024",
+                "description":"<ul><li>Participation in the development of business logic and user experiences of a potentially high load and scalable system (FigJam, Wireframe, CJM, FigJam, Slack)</li><li>Development of an adaptive user interface for all stages and scenarios of product growth. Prototyping and animation user interface. (Figma, Prototype, ProtoPie, Framer) </li><li>Creating user interface component kit. (Figma, Components, UI-Kit)</li></ul>"
+            },{
+                "company":{
                     "name":"Sber:",
                     "link":"https://en.wikipedia.org/wiki/Sberbank"
                 },
                 "position":"Senior UX/UI Designer",
-                "date":"11/2021 - 09/2022",
+                "date":"Moscow, Russia | 11/2021 - 09/2022",
                 "description":"<ul><li>Created a more responsive and user-friendly interface for many of the bank's products and systems, which resulted in increased loyalty and a <a href='https://www.sberbank.com/investor-relations/groupresults/2022'target='_blank'><u>25% growth</u></a> in customers. (Figma)</li><li>Conducting user experience research. Analyzing and identifying new user behavior trends. (Figma, Prototype, Wireframe, Framer, FigJam, Miro)</li><li>Maintained and developed the UI-Kit. (Figma, Storybook.js, React.js, Html, CSS)</li></ul>"
             },{
                 "company":{
@@ -64,7 +72,7 @@
                     "link":"https://en.wikipedia.org/wiki/Alpari_Group"
                 },
                 "position":"UX/UI Designer / UI Engineer",
-                "date":"11/2019 - 11/2021",
+                "date":"Moscow, Russia | 11/2019 - 11/2021",
                 "description":"<ul><li>Created a new UI kit for the company's website. (Figma-Components, Storybook.js, React.js, Html, CSS) , the UX/UI of the subsidiary company's website.  (Figma, Miro) </li><li>Created the UI and UI kit for the trading terminal application for iOS and Android. Subsequently, this product accounted for over 50% of the profit and became the company's flagship product.  (Figma (Components, Prototype, Wireframe), Miro) </li><li>Created the UX/UI and participated in the development of the company's marketing performance dashboard.  (Figma (Components, Prototype, Wireframe), Miro, Js (React, Redux, RESTful API, Google Chart tools), Html, CSS (tailwind), Docker, Postman, Git) </li></ul>"
             },{
                 "company":{
@@ -72,7 +80,7 @@
                     "link":"https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology"
                 },
                 "position":"Software engineer - Contract",
-                "date":"02/2018 - 05/2018",
+                "date":"Moscow, Russia | 02/2018 - 05/2018",
                 "description":"<ul><li>Created the development of algorithms for data computation and processing big data.  (Python, Numpy) </il></ul>"
             },{
                 "company":{
@@ -80,7 +88,7 @@
                     "link":"https://www.inevm.ru/en/index.php"
                 },
                 "position":"Software engineer",
-                "date":"03/2017 - 11/2019",
+                "date":"Moscow, Russia | 03/2017 - 11/2019",
                 "description":"<ul><li>Supported the legacy code of the project and writing new functionality</li><li>Was doing migrating the system from Symfony 3.0 to Laravel 10.0  (Php, SQL) </li><li>Was doing database integration and replication.  (Python, PostgresQL, Cassandra) </li><li>Created and developed the company's website UI.  (Figma, Html, CSS, JS) </li></ul>"
             },{
                 "company":{
@@ -88,7 +96,7 @@
                     "link":"https://en.wikipedia.org/wiki/Alpari_Group"
                 },
                 "position":"UX/UI Designer / UI Engineer",
-                "date":"07/2013 - 02/2017",
+                "date":"Moscow, Russia | 07/2013 - 02/2017",
                 "description":"<ul><li>Designed UX/UI for promotional websites and advertising banners.  (Photoshop, Figma, Sketch) </li><li>Developed landing pages and HTML banners.  (Html, CSS, JS, Php (Lumen, Composer), SQL, Git) </li></ul>"
             }
         ]
