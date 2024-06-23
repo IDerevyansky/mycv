@@ -48,20 +48,58 @@ function Experience(q, id){
                         <h2>{DATA.skills.title}</h2>
                     </div>
                     <div className='expBox'>
-                    <p><strong>{DATA.skills.list[0].title}</strong>{
-                        DATA.skills.list[0].list.map((item, key, array)=>(
-                            
-                          key < array.length - 1? item + ", " : item + "."  
 
-                        ))
-                    }</p>
-                    <p><strong>{DATA.skills.list[1].title}</strong>{
-                        DATA.skills.list[1].list.map((item, key, array)=>(
-                            
-                          key < array.length - 1? item + ", " : item + "."  
 
-                        ))
-                    }</p>
+                        {/* {
+                           
+
+                            DATA.skills.list.map((item, key, array)=>{
+                                
+                                console.log( )
+                                return(
+                                    <p key={key}><strong>{item.title}</strong>
+
+                                        {
+
+                                            item.list ? item.list + ", " : item.list + "."
+                                        
+                                        }
+                                    
+                                    </p>
+                                )
+                                
+                            })
+
+                        } */}
+
+
+
+
+
+                        <p><strong>{DATA.skills.list[0].title}</strong>{
+                            DATA.skills.list[0].list.map((item, key, array)=>(
+                                
+                            key < array.length - 1? item + ", " : item + "."  
+
+                            ))
+                        }</p>
+                        <p><strong>{DATA.skills.list[1].title}</strong>{
+                            DATA.skills.list[1].list.map((item, key, array)=>(
+                                
+                            key < array.length - 1? item + ", " : item + "."  
+
+                            ))
+                        }</p>
+                          <p><strong>{DATA.skills.list[2].title}</strong>{
+                            DATA.skills.list[2].list.map((item, key, array)=>(
+                                
+                            key < array.length - 1? item + ", " : item + "."  
+
+                            ))
+                        }</p>
+
+
+
                     </div>
 
                 </div>

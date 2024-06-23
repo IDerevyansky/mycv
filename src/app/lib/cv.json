@@ -38,11 +38,15 @@
         "list":[
             { 
              "title":"Proficiency Skills: ",
-             "list":["Figma", "Components", "Prototype", "Wireframe", "ProtoPie", "CJM", "UI-Kit", "Framer", "FigJam", "Miro", "Sketch", "Photoshop", "Illustrator", "UX/UI", "User interface", "User Experience", "User Research" ,"A/B Testing", "Agile Methodology"]
+             "list":["Figma", "ProtoPie", "Framer", "Photoshop", "Illustrator", "Sketch", "Html", "CSS", "JavaScript", "Python", "Php", "Git", "React", "Next", "RESTful API", "A/B Testing", "Google Chart tools", "Tailwind", "Docker", "Postman", "CJM", "UI-Kit",  "User interface", "User Experience", "User Research"]
             },
             {
-             "title":"Additional Skills: ",
-             "list":["Python", "Numpy", "Php", "Html", "CSS", "JavaScript", "React", "Next", "Redux", "React Router", "RESTful API", "Google Chart tools", "Tailwind", "Storybook.js", "Docker", "Postman", "Git", "Composer", "Symfony", "Laravel", "Lumen", "SQL", "PostgresQL", "Cassandra", "noSQL"]
+             "title":"Soft skills: ",
+             "list":["Communication", "Teamwork", "Adaptability", "Creativity", "Emotional intelligence"]
+            },
+            {
+                "title":"Language skills: ",
+                "list":["English B2", "Russian C2"]
             }
             
         ]  
