@@ -34,10 +34,11 @@ function Experience(q, id){
 
                 <div className='personalInfoBox'>
                     <h1>{DATA.personInfo.name}</h1>
+                    <p class="mt-4 text-gray-600">{DATA.personInfo.title}</p>
                     <div className='contactInf'>
+                        <p>{DATA.personInfo.address}</p>
                         <Link href={"mailto:"+DATA.personInfo.mail}>{DATA.personInfo.mail}</Link>
                         <Link href={"tel:"+DATA.personInfo.phone}>{DATA.personInfo.phone}</Link>
-                        <p>{DATA.personInfo.address}</p>
                     </div>
                 </div>
 
@@ -49,55 +50,26 @@ function Experience(q, id){
                     </div>
                     <div className='expBox'>
 
+                        
 
-                        {/* {
-                           
+                            {
+                                DATA.skills.list.map((item, key, array)=>{
 
-                            DATA.skills.list.map((item, key, array)=>{
-                                
-                                console.log( )
-                                return(
-                                    <p key={key}><strong>{item.title}</strong>
-
-                                        {
-
-                                            item.list ? item.list + ", " : item.list + "."
+                                    return(
+                                        <p><strong key={key}>{item.title}</strong>
                                         
-                                        }
-                                    
-                                    </p>
-                                )
+                                            {
+                                                
+                                               item.list.map((i, k, a)=>(k >= a.length - 1 ? i+'.' : i+', ' ))
+
+                                            }
+
+                                        </p>
+                                    )
+
+                                })
                                 
-                            })
-
-                        } */}
-
-
-
-
-
-                        <p><strong>{DATA.skills.list[0].title}</strong>{
-                            DATA.skills.list[0].list.map((item, key, array)=>(
-                                
-                            key < array.length - 1? item + ", " : item + "."  
-
-                            ))
-                        }</p>
-                        <p><strong>{DATA.skills.list[1].title}</strong>{
-                            DATA.skills.list[1].list.map((item, key, array)=>(
-                                
-                            key < array.length - 1? item + ", " : item + "."  
-
-                            ))
-                        }</p>
-                          <p><strong>{DATA.skills.list[2].title}</strong>{
-                            DATA.skills.list[2].list.map((item, key, array)=>(
-                                
-                            key < array.length - 1? item + ", " : item + "."  
-
-                            ))
-                        }</p>
-
+                            } 
 
 
                     </div>

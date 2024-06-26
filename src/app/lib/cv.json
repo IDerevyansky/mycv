@@ -1,6 +1,6 @@
 {
     "personInfo":{
-        "title":"",
+        "title":"UX/UI Designer / UI Engineer",
         "name":"Igor Derevianskii",
         "phone":"+1 424 588 9880",
         "mail":"iderevyansky@yahoo.com",
@@ -38,7 +38,7 @@
         "list":[
             { 
              "title":"Proficiency Skills: ",
-             "list":["Figma", "ProtoPie", "Framer", "Photoshop", "Illustrator", "Sketch", "Html", "CSS", "JavaScript", "Python", "Php", "Git", "React", "Next", "RESTful API", "A/B Testing", "Google Chart tools", "Tailwind", "Docker", "Postman", "CJM", "UI-Kit",  "User interface", "User Experience", "User Research"]
+             "list":["Figma", "ProtoPie", "Framer", "Photoshop", "Illustrator", "Sketch", "Html", "CSS", "JavaScript", "Python", "Php", "Git", "React", "Next", "RESTful API", "A/B Testing", "Google Chart tools", "Tailwind", "Docker", "Postman", "CJM", "UI-Kit",  "User interface", "User Experience", "User Research", "Prototype", "Wireframe", "Components", "User flows"]
             },
             {
              "title":"Soft skills: ",
@@ -47,8 +47,7 @@
             {
                 "title":"Language skills: ",
                 "list":["English B2", "Russian C2"]
-            }
-            
+            } 
         ]  
     },
     "experience":{
@@ -61,7 +60,7 @@
                 },
                 "position":"UX/UI Designer",
                 "date":"San Francisco Bay Area | 11/2023 - 05/2024",
-                "description":"<ul><li>Participation in the development of business logic and user experiences of a potentially high load and scalable system (FigJam, Wireframe, CJM, Slack)</li><li>Development of an adaptive user interface for all stages and scenarios of product growth. Prototyping and animation user interface. (Figma, Prototype, ProtoPie, Framer) </li><li>Creating user interface component kit. (Figma, Components, UI-Kit)</li></ul>"
+                "description":"<ul><li>Make user experience and interfaces for all stages and scenarios of product growth let to make Road Map, which accelerated the release of MVP by 1 month earlier.</li><li>Prototyping and animating the UI allowed us to conduct UX research, which showed an increase in usability and speed of task solving of 34% compared to competitors' solutions.</li></ul>"
             },{
                 "company":{
                     "name":"Sber:",
@@ -69,7 +68,7 @@
                 },
                 "position":"Senior UX/UI Designer",
                 "date":"Moscow, Russia | 11/2021 - 09/2022",
-                "description":"<ul><li>Created a more responsive and user-friendly interface for many of the bank's products and systems, which resulted in increased loyalty and a <a href='https://www.sberbank.com/investor-relations/groupresults/2022'target='_blank'><u>25% growth</u></a> in customers. (Figma)</li><li>Conducting user experience research. Analyzing and identifying new user behavior trends. (Figma, Prototype, Wireframe, Framer, FigJam, Miro)</li><li>Maintained and developed the UI-Kit. (Figma, Storybook.js, React.js, Html, CSS)</li></ul>"
+                "description":"<ul><li>Based on conducted user experience research. A more responsive and user-friendly interface for bank products has been made, which has increased  the number of customers by <a href='https://www.sberbank.com/investor-relations/groupresults/2022'target='_blank'><u>25%</u></a>.</li><li>Maintained and developed the UI-Kit.</li></ul>"
             },{
                 "company":{
                     "name":"Alpari:",
@@ -77,15 +76,7 @@
                 },
                 "position":"UX/UI Designer / UI Engineer",
                 "date":"Moscow, Russia | 11/2019 - 11/2021",
-                "description":"<ul><li>Created a new UI kit for the company's website. (Figma-Components, Storybook.js, React.js, Html, CSS) , the UX/UI of the subsidiary company's website.  (Figma, Miro) </li><li>Created the UI and UI kit for the trading terminal application for iOS and Android. Subsequently, this product accounted for over 50% of the profit and became the company's flagship product.  (Figma (Components, Prototype, Wireframe), Miro) </li><li>Created the UX/UI and participated in the development of the company's marketing performance dashboard.  (Figma (Components, Prototype, Wireframe), Miro, Js (React, Redux, RESTful API, Google Chart tools), Html, CSS (tailwind), Docker, Postman, Git) </li></ul>"
-            },{
-                "company":{
-                    "name":"MIPT:",
-                    "link":"https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology"
-                },
-                "position":"Software engineer - Contract",
-                "date":"Moscow, Russia | 02/2018 - 05/2018",
-                "description":"<ul><li>Created the development of algorithms for data computation and processing big data.  (Python, Numpy) </il></ul>"
+                "description":"<ul><li>Created UX and UI of the trading terminal application for iOS and Android. Subsequently, this product contributed more than 50% of profits and became the company's flagship product.</li><li>Based on user research, I made a UI dashboard for the company’s marketing activities. Which let to reduce the budget and increase advertising efficiency by 30%</li></ul>"
             },{
                 "company":{
                     "name":"ICIE:",
@@ -93,7 +84,7 @@
                 },
                 "position":"Software engineer",
                 "date":"Moscow, Russia | 03/2017 - 11/2019",
-                "description":"<ul><li>Supported the legacy code of the project and writing new functionality</li><li>Was doing migrating the system from Symfony 3.0 to Laravel 10.0  (Php, SQL) </li><li>Was doing database integration and replication.  (Python, PostgresQL, Cassandra) </li><li>Created and developed the company's website UI.  (Figma, Html, CSS, JS) </li></ul>"
+                "description":"<ul><li>Participation in the creation of a data collection and analysis system, which showed a performance increase of more than 50% compared to the previous version.</li><li>Engaged in the development of algorithms for calculating data for university <a href='https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology' target='_black'><u>MIPT<u/></a></li></ul>"
             },{
                 "company":{
                     "name":"Alpari:",
@@ -101,7 +92,7 @@
                 },
                 "position":"UX/UI Designer / UI Engineer",
                 "date":"Moscow, Russia | 07/2013 - 02/2017",
-                "description":"<ul><li>Designed UX/UI for promotional websites and advertising banners.  (Photoshop, Figma, Sketch) </li><li>Developed landing pages and HTML banners.  (Html, CSS, JS, Php (Lumen, Composer), SQL, Git) </li></ul>"
+                "description":"<ul><li>Created more than 1K+ promotional sites and advertising banners. Which was increases the company's performance from 10% to 40% from year to year.</li></ul>"
             }
         ]
     },

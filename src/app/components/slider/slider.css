@@ -86,3 +86,25 @@
     object-cover
 }
 
+
+.swiper-button-prev:after {
+    @apply
+    text-sky-500
+    bg-sky-500/10
+    py-[22px]
+    px-[32px]
+    scale-50
+    ml-[20px]
+    rounded-full
+}
+
+.swiper-button-next:after{
+        @apply
+        text-sky-500
+        bg-sky-500/10
+        py-[22px]
+        px-[32px]
+        scale-50
+        mr-[20px]
+        rounded-full
+}
