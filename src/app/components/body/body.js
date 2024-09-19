@@ -40,6 +40,7 @@ function Experience(q, id){
                         <Link href={"mailto:"+DATA.personInfo.mail}>{DATA.personInfo.mail}</Link>
                         <Link href={"tel:"+DATA.personInfo.phone}>{DATA.personInfo.phone}</Link>
                     </div>
+                    <p className="mt-4 text-gray-600">{DATA.personInfo.EAD}</p>
                 </div>
 
                 {/*  -------------------------- Skills -------------------------- */}
