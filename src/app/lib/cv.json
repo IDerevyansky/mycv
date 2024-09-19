@@ -37,16 +37,16 @@
         "title":"Skills",
         "list":[
             { 
-             "title":"Proficiency Skills: ",
-             "list":["Figma", "ProtoPie", "Framer", "Photoshop", "Illustrator", "Sketch", "Html", "CSS", "JavaScript", "Python", "Php", "Git", "React", "Next", "RESTful API", "A/B Testing", "Google Chart tools", "Tailwind", "Docker", "Postman", "CJM", "UI-Kit",  "User interface", "User Experience", "User Research", "Prototype", "Wireframe", "Components", "User flows"]
+             "title":"Design Tools: ",
+             "list":["Figma", "ProtoPie", "Framer", "Photoshop", "Illustrator", "Sketch", "Google Chart tools"]
             },
             {
-             "title":"Soft skills: ",
-             "list":["Communication", "Teamwork", "Adaptability", "Creativity", "Emotional intelligence"]
+             "title":"Languages/Technologies: ",
+             "list":["Html", "CSS", "JavaScript", "React", "Next", "RESTful API", "Python", "Php", "Git", "Docker", "Postman"]
             },
             {
-                "title":"Language skills: ",
-                "list":["English B2", "Russian C2"]
+             "title":"Research Expertise: ",
+             "list":["User interface", "User experience", "User research", "Prototype", "Wireframe", "User flows", "A/B Testing"]
             } 
         ]  
     },
@@ -58,9 +58,9 @@
                     "name":"Stealth Startup:",
                     "link":"https://en.wikipedia.org/wiki/Stealth_startup"
                 },
-                "position":"UX/UI Designer",
+                "position":"Senior UX/UI Designer",
                 "date":"San Francisco Bay Area | 11/2023 - 05/2024",
-                "description":"<ul><li>Make user experience and interfaces for all stages and scenarios of product growth let to make Road Map, which accelerated the release of MVP by 1 month earlier.</li><li>Prototyping and animating the UI allowed us to conduct UX research, which showed an increase in usability and speed of task solving of 34% compared to competitors' solutions.</li></ul>"
+                "description":"<ul><li>Developed user experiences and interfaces that addressed all stages of the product’s growth, including various use cases and scenarios. This comprehensive approach enabled the creation of a detailed roadmap, which streamlined the development process and accelerated the MVP launch by 3 months ahead of schedule.</li><li>By creating interactive UI prototypes and animations, I was able to conduct in-depth UX research. This research demonstrated a 34% increase in both usability and task completion speed compared to competitor solutions, highlighting the effectiveness of my approach in improving overall user satisfaction and efficiency.</li></ul>"
             },{
                 "company":{
                     "name":"Sber:",
@@ -68,7 +68,7 @@
                 },
                 "position":"Senior UX/UI Designer",
                 "date":"Moscow, Russia | 11/2021 - 09/2022",
-                "description":"<ul><li>After conducting user experience research, I developed a more responsive and user-friendly interface for bank products, resulting in a <a href='https://www.sberbank.com/investor-relations/groupresults/2022'target='_blank'><u>25%</u></a> increase in customers.</li><li>Maintained and developed the UI-Kit.</li></ul>"
+                "description":"<ul><li>After conducting extensive user experience research, I redesigned the interface for the bank's products to be more responsive and user-friendly. This overhaul improved the overall usability and accessibility of the platform, leading to a 25% increase in customers.</li><li>I took responsibility for maintaining and expanding the UI Kit, ensuring consistency across all design elements. This included adding new components, refining existing ones, and making sure the design system remained adaptable to the evolving needs of the product and development teams.</li></ul>"
             },{
                 "company":{
                     "name":"Alpari:",
@@ -76,7 +76,7 @@
                 },
                 "position":"UX/UI Designer / UI Engineer",
                 "date":"Moscow, Russia | 11/2019 - 11/2021",
-                "description":"<ul><li>Created UX and UI of the trading terminal application for iOS and Android. Subsequently, this product contributed more than 50% of profits and became the company's flagship product.</li><li>Based on user research, I made a UI dashboard for the company’s marketing activities. Which let to reduce the budget and increase advertising efficiency by 30%</li></ul>"
+                "description":"<ul><li>Created the UX and UI for the trading terminal application on iOS and Android. This product subsequently contributed more than 50% of the company's profits and became its flagship product.</li><li>Based on user research, I designed a UI dashboard for the company’s marketing activities, which reduced the budget and increased advertising efficiency from 62% to 88%.</li></ul>"
             },{
                 "company":{
                     "name":"ICIE:",
@@ -84,7 +84,7 @@
                 },
                 "position":"Software engineer",
                 "date":"Moscow, Russia | 03/2017 - 11/2019",
-                "description":"<ul><li>Participation in the creation of a data collection and analysis system, which showed a performance increase of more than 50% compared to the previous version.</li><li>Engaged in the development of algorithms for calculating data for university <a href='https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology' target='_black'><u>MIPT<u/></a></li></ul>"
+                "description":"<ul><li>Participated in the creation of a data collection and analysis system, which demonstrated a performance increase of more than 50% compared to the previous version.</li><li>Contributed to the development of algorithms for data calculation at MIPT University.</li></ul>"
             },{
                 "company":{
                     "name":"Alpari:",
@@ -92,7 +92,7 @@
                 },
                 "position":"UX/UI Designer / UI Engineer",
                 "date":"Moscow, Russia | 07/2013 - 02/2017",
-                "description":"<ul><li>Created more than 1K+ promotional sites and advertising banners. Which was increases the company's performance from 10% to 40% from year to year.</li></ul>"
+                "description":"<ul><li>More than 1,000 promo sites and advertising banners have been created, which has increased the company's recognition.</li></ul>"
             }
         ]
     },
