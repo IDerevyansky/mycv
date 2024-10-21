@@ -85,6 +85,7 @@ h4{
   @apply
   flex
   justify-center
+  mt-6
 }
 
 .profil{
@@ -143,7 +144,8 @@ h4{
 
 .icon{
   @apply
-  opacity-100
+  opacity-10
+  hover:opacity-20
 }
 
 .arrow :last-child{

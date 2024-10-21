@@ -27,7 +27,12 @@
                 "name":"telegram",
                 "link":"https://t.me/iderevyansky",
                 "url":"https://raw.githubusercontent.com/IDerevyansky/mycv/5c47a7ddab0bcf73ccb87dad5a00c516e80f0d6e/src/app/lib/img/icon/icon_telegram.svg"
-            } 
+            },
+            {
+                "name":"qr",
+                "link":"/qr",
+                "url":"https://raw.githubusercontent.com/IDerevyansky/mycv/5c47a7ddab0bcf73ccb87dad5a00c516e80f0d6e/src/app/lib/img/icon/qr.svg"
+            }  
         ]           
     },
     "summary":{
