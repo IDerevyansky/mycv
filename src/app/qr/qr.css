@@ -1,0 +1,6 @@
+.qrBox{
+    @apply
+    flex
+    justify-center
+    w-full
+}

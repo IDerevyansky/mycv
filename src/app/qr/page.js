@@ -1,7 +1,6 @@
 import Menu from '../components/menu/menu';
 import Image from 'next/image';
 import './qr.css';
-import '@/app/components/globals.css';
 
 import qrCode from '@/app/lib/img/QRCode.jpg'
 
@@ -18,14 +17,14 @@ export default function Qr(){
     
             <div className="bodyMainContainer">
     
-                <div className="bodyContainerPortfolio">
+                <div className="qrBox">
         
-                <Image
-                src={qrCode}
-                width="320"
-                height="320"
-                alt="Qr code"
-                />
+                    <Image
+                    src={qrCode}
+                    width="320"
+                    height="320"
+                    alt="Qr code"
+                    />
 
         
                 </div>
