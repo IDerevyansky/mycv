@@ -33,7 +33,7 @@ export default function Menu(){
 
                 <div className="rightSide">
 
-                    <BtnDwnld position='DownloadBtn'/>
+                    // <BtnDwnld position='DownloadBtn'/>
 
                     <div className="menuItems">
                         {listItem.map((item, id)=>(
