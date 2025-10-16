@@ -33,7 +33,7 @@ export default function Menu(){
 
                 <div className="rightSide">
 
-                    // <BtnDwnld position='DownloadBtn'/>
+               {/* <BtnDwnld position='DownloadBtn'/> */}
 
                     <div className="menuItems">
                         {listItem.map((item, id)=>(
@@ -55,7 +55,7 @@ export default function Menu(){
                                 <Link key={id} className={ pathname === item.url? 'text-sky-600' : 'text-slate-800' } prefetch={true} href={item.url}>{item.name}</Link>
                             ))}
 
-                            <BtnDwnld position='DownloadBtnPopUp'/>
+                            {/* <BtnDwnld position='DownloadBtn'/> */}
 
 
                         </div>
