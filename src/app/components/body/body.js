@@ -17,8 +17,12 @@ export default function Body(props) {
           <span className="expLocation">{q.location}</span>
         </div>
         <div className="expPositionLine">
-          <strong>{q.position} · {q.type}</strong>
-          <span className="expDate"><strong>{q.date}</strong></span>
+          <strong>
+            {q.position} · {q.type}
+          </strong>
+          <span className="expDate">
+            <strong>{q.date}</strong>
+          </span>
         </div>
         <ul className="expBullets">
           {q.bullets.map((bullet, i) => (
@@ -36,7 +40,7 @@ export default function Body(props) {
           <h1>{DATA.personInfo.name}</h1>
           <p className="mt-1 text-gray-600">{DATA.personInfo.title}</p>
           <div className="contactInf">
-            <span>{DATA.personInfo.address}</span>
+            <span className="text-slate-600 text-lg">{DATA.personInfo.address}</span>
             <Link href={"mailto:" + DATA.personInfo.mail}>
               {DATA.personInfo.mail}
             </Link>
@@ -45,9 +49,6 @@ export default function Body(props) {
             </Link>
             <Link href={DATA.personInfo.linkedin.link} target="_blank">
               {DATA.personInfo.linkedin.display}
-            </Link>
-            <Link href={DATA.personInfo.website.link} target="_blank">
-              {DATA.personInfo.website.display}
             </Link>
           </div>
           <p className="mt-2 font-semibold">{DATA.personInfo.EAD}</p>
