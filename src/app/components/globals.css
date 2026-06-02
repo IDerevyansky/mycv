@@ -130,6 +130,18 @@ h4{
   bg-[#F8FAFC]
   2xl:w-[1024px]
   xl:w-[1024px]
+  flex
+  flex-col
+  gap-4
+}
+
+.summaryCta{
+  @apply
+  mt-2
+  w-fit
+  underline
+  text-sky-600
+  after:content-['_↗']
 }
 
 .socialIcon{
