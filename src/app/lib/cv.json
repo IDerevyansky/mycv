@@ -1,119 +1,198 @@
 {
-    "personInfo":{
-        "title":"UX/UI Designer / UI Engineer",
-        "name":"Igor Derevianskii",
-        "phone":"+X XXX XXX XXXX",
-        "mail":"iderevyansky@yahoo.com",
-        "EAD":"Authorized to work in US",
-        "cvLink":"https://iderevyansky.github.io/mycv/src/app/lib/Igor_Derevianskii_CV.pdf",
-        "address":"Palo Alto, CA",
-        "socialnetwork":[
-            {
-                "name":"linkedin",
-                "link":"https://linkedin.com/in/iderevyansky/",
-                "url":"https://raw.githubusercontent.com/IDerevyansky/mycv/5c47a7ddab0bcf73ccb87dad5a00c516e80f0d6e/src/app/lib/img/icon/icon_linkedin.svg"
-            },
-            {
-                "name":"github",
-                "link":"https://github.com/IDerevyansky",
-                "url":"https://raw.githubusercontent.com/IDerevyansky/mycv/5c47a7ddab0bcf73ccb87dad5a00c516e80f0d6e/src/app/lib/img/icon/icon_github.svg"
-            },
-            {
-                "name":"facebook",
-                "link":"https://www.facebook.com/igor.derevyansky",
-                "url":"https://raw.githubusercontent.com/IDerevyansky/mycv/5c47a7ddab0bcf73ccb87dad5a00c516e80f0d6e/src/app/lib/img/icon/icon_facebook.svg"
-            },
-            {
-                "name":"telegram",
-                "link":"https://t.me/iderevyansky",
-                "url":"https://raw.githubusercontent.com/IDerevyansky/mycv/5c47a7ddab0bcf73ccb87dad5a00c516e80f0d6e/src/app/lib/img/icon/icon_telegram.svg"
-            },
-            {
-                "name":"qr",
-                "link":"/qr",
-                "url":"https://raw.githubusercontent.com/IDerevyansky/mycv/31bd4a16921530f4327683ca95d05da55019d76e/src/app/lib/img/icon/qr.svg"
-            }  
-        ]           
+  "personInfo": {
+    "title": "Frontend Engineer / UI Engineer",
+    "name": "Igor Derevianskii",
+    "phone": "+1 424 588 9880",
+    "mail": "iderevyansky@yahoo.com",
+    "EAD": "Authorized to work in US",
+    "cvLink": "https://iderevyansky.github.io/mycv/src/app/lib/Igor_Derevianskii_CV.pdf",
+    "address": "Palo Alto, CA",
+    "linkedin": {
+      "display": "linkedin.com/in/iderevyansky",
+      "link": "https://linkedin.com/in/iderevyansky/"
     },
-    "summary":{
-        "title":"Summary",
-        "description":"<strong>Summary</strong><br> Have a good day. I specialize in professionally creating user interface design and development. Throughout my professional career, I have designed numerous products, with some of them becoming flagship products for companies. My experience primarily focuses on visually processing big volumes of data, as I have dedicated a significant portion of my professional activity to the financial sector. My work involves turning complex into straightforward ones. I have been in the industry for over 13 years and hold a Bachelor of Computer Science degree, which allows me to delve deeper into the technical aspects of products. Additionally, I am proficient in product development as a software engineer. If you are interested in my experience, then <u><a href='mailto:iderevyansky@yahoo.com' target='_black'>contact me.</a></u>"
+    "website": {
+      "display": "derevianskii.com",
+      "link": "https://derevianskii.com"
     },
-    "skills":{
-        "title":"Skills",
-        "list":[
-            { 
-             "title":"Design Tools: ",
-             "list":["Figma", "ProtoPie", "Framer", "Photoshop", "Illustrator", "Sketch", "Google Chart tools"]
-            },
-            {
-             "title":"Languages/Technologies: ",
-             "list":["Html", "CSS", "JavaScript", "React", "Next", "RESTful API", "Python", "Php", "Git", "Docker", "Postman"]
-            },
-            {
-             "title":"Research Expertise: ",
-             "list":["User interface", "User experience", "User research", "Prototype", "Wireframe", "User flows", "A/B Testing"]
-            } 
-        ]  
-    },
-    "experience":{
-        "title":"Experience",
-        "list":[
-            {
-                "company":{
-                    "name":"Stealth Startup:",
-                    "link":"https://en.wikipedia.org/wiki/Stealth_startup"
-                },
-                "position":"Senior UX/UI Designer",
-                "date":"San Francisco Bay Area | 11/2023 - 05/2024",
-                "description":"<ul><li>Developed user experiences and interfaces that addressed all stages of the product’s growth, including various use cases and scenarios. This comprehensive approach enabled the creation of a detailed roadmap, which streamlined the development process and accelerated the MVP launch by 3 months ahead of schedule.</li><li>By creating interactive UI prototypes and animations, I was able to conduct in-depth UX research. This research demonstrated a 34% increase in both usability and task completion speed compared to competitor solutions, highlighting the effectiveness of my approach in improving overall user satisfaction and efficiency.</li></ul>"
-            },{
-                "company":{
-                    "name":"Sber:",
-                    "link":"https://en.wikipedia.org/wiki/Sberbank"
-                },
-                "position":"Senior UX/UI Designer",
-                "date":"Moscow, Russia | 11/2021 - 09/2022",
-                "description":"<ul><li>After conducting extensive user experience research, I redesigned the interface for the bank's products to be more responsive and user-friendly. This overhaul improved the overall usability and accessibility of the platform, leading to a 25% increase in customers.</li><li>I took responsibility for maintaining and expanding the UI Kit, ensuring consistency across all design elements. This included adding new components, refining existing ones, and making sure the design system remained adaptable to the evolving needs of the product and development teams.</li></ul>"
-            },{
-                "company":{
-                    "name":"Alpari:",
-                    "link":"https://en.wikipedia.org/wiki/Alpari_Group"
-                },
-                "position":"UX/UI Designer / UI Engineer",
-                "date":"Moscow, Russia | 11/2019 - 11/2021",
-                "description":"<ul><li>Created the UX and UI for the trading terminal application on iOS and Android. This product subsequently contributed more than 50% of the company's profits and became its flagship product.</li><li>Based on user research, I designed a UI dashboard for the company’s marketing activities, which reduced the budget and increased advertising efficiency from 62% to 88%.</li></ul>"
-            },{
-                "company":{
-                    "name":"ICIE:",
-                    "link":"https://www.inevm.ru/en/index.php"
-                },
-                "position":"Software engineer",
-                "date":"Moscow, Russia | 03/2017 - 11/2019",
-                "description":"<ul><li>Participated in the creation of a data collection and analysis system, which demonstrated a performance increase of more than 50% compared to the previous version.</li><li>Contributed to the development of algorithms for data calculation at MIPT University.</li></ul>"
-            },{
-                "company":{
-                    "name":"Alpari:",
-                    "link":"https://en.wikipedia.org/wiki/Alpari_Group"
-                },
-                "position":"UX/UI Designer / UI Engineer",
-                "date":"Moscow, Russia | 07/2013 - 02/2017",
-                "description":"<ul><li>More than 1,000 promo sites and advertising banners have been created, which has increased the company's recognition.</li></ul>"
-            }
-        ]
-    },
-    "education":{
-        "title":"Education",
-        "name":"Moscow State University of Instrument Engineering and Computer Science",
-        "specialisation":"Computers, complex systems and networks",
-        "date":"June 2010",
-        "degree":"Bachelor of Computer Science"
-    },
-    "licensesCertifications":{
-        "title":"Licenses & Certifications",
-        "name":"Principles of UX/UI Design",
-        "teacher":"Meta",
-        "link":"https://coursera.org/verify/P3XXWC4RCESJ"
+    "socialnetwork": [
+      {
+        "name": "linkedin",
+        "link": "https://linkedin.com/in/iderevyansky/",
+        "url": "https://raw.githubusercontent.com/IDerevyansky/mycv/5c47a7ddab0bcf73ccb87dad5a00c516e80f0d6e/src/app/lib/img/icon/icon_linkedin.svg"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/IDerevyansky",
+        "url": "https://raw.githubusercontent.com/IDerevyansky/mycv/5c47a7ddab0bcf73ccb87dad5a00c516e80f0d6e/src/app/lib/img/icon/icon_github.svg"
+      },
+      {
+        "name": "facebook",
+        "link": "https://www.facebook.com/igor.derevyansky",
+        "url": "https://raw.githubusercontent.com/IDerevyansky/mycv/5c47a7ddab0bcf73ccb87dad5a00c516e80f0d6e/src/app/lib/img/icon/icon_facebook.svg"
+      },
+      {
+        "name": "telegram",
+        "link": "https://t.me/iderevyansky",
+        "url": "https://raw.githubusercontent.com/IDerevyansky/mycv/5c47a7ddab0bcf73ccb87dad5a00c516e80f0d6e/src/app/lib/img/icon/icon_telegram.svg"
+      },
+      {
+        "name": "qr",
+        "link": "/qr",
+        "url": "https://raw.githubusercontent.com/IDerevyansky/mycv/31bd4a16921530f4327683ca95d05da55019d76e/src/app/lib/img/icon/qr.svg"
+      }
+    ]
+  },
+  "summary": {
+    "title": "Summary",
+    "paragraphs": [
+      "Full-stack engineer and UI/UX designer with 15+ years of experience building products at the intersection of design and engineering. I specialize in data-heavy interfaces — dashboards, monitoring tools, and real-time visualizations — with a strong background in the financial and IoT sectors.",
+      "My work spans the full product lifecycle: from Figma prototypes to production-ready code (Vue.js, React.js, TypeScript, Go). I'm equally comfortable discussing system architecture with backend teams and crafting pixel-perfect UI components.",
+      "Currently at DeGirum, I'm building high-performance visualization tools for large-scale IoT fleets — taking on challenges where off-the-shelf solutions simply don't exist.",
+      "I hold a degree in Computer Science, which grounds my design decisions in technical reality and helps me bridge the gap between what looks good and what actually ships."
+    ],
+    "cta": {
+      "text": "Get in touch",
+      "link": "mailto:iderevyansky@yahoo.com"
     }
-   
+  },
+  "skills": {
+    "title": "Skills",
+    "list": [
+      {
+        "title": "Languages & Frameworks: ",
+        "list": [
+          "TypeScript",
+          "Vue.js",
+          "React",
+          "Next.js",
+          "Apache ECharts",
+          "D3.js",
+          "Go",
+          "Python",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "title": "Tools & Infrastructure: ",
+        "list": [
+          "Docker",
+          "Git",
+          "Postman",
+          "Figma",
+          "Framer",
+          "WebFlow",
+          "Photoshop",
+          "Illustrator"
+        ]
+      },
+      {
+        "title": "UX & Design Practice: ",
+        "list": [
+          "UI/UX Design",
+          "User Research",
+          "Wireframing",
+          "Prototyping",
+          "User Flows",
+          "A/B Testing"
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "list": [
+      {
+        "company": {
+          "name": "DeGirum",
+          "domain": "degirum.com",
+          "link": "https://degirum.com/"
+        },
+        "position": "Software Engineer (UI)",
+        "type": "Full-time",
+        "location": "San Francisco Bay Area, USA",
+        "date": "03/2025 - Present",
+        "bullets": [
+          "Joined mid-development; audited and redesigned UI/UX from the ground up — from Figma prototypes to production-ready components (Vue.js, TypeScript, Nuxt, Tailwind CSS)",
+          "Built high-performance data visualizations for monitoring large fleets of edge IoT devices (Apache ECharts, D3.js, Canvas)",
+          "Created custom UI components for complex technical workflows; contributed to backend integration (Go)"
+        ]
+      },
+      {
+        "company": {
+          "name": "Halo AI",
+          "domain": "haloai.app",
+          "link": "https://haloai.app/"
+        },
+        "position": "UX/UI Designer",
+        "type": "Contract",
+        "location": "San Francisco Bay Area, USA",
+        "date": "11/2023 - 05/2024",
+        "bullets": [
+          "Sole designer on an early-stage AI startup; defined the full product UX from scratch in close collaboration with founders — business logic, user flows, and interaction design",
+          "Designed end-to-end: onboarding, influencer-brand collaboration mechanics, and core product screens — from wireframes to interactive prototypes (Figma, ProtoPie, Framer)",
+          "Built a complete UI component library ensuring visual consistency across the product"
+        ]
+      },
+      {
+        "company": {
+          "name": "Sber",
+          "domain": "sberbank.com",
+          "link": "https://en.wikipedia.org/wiki/Sberbank"
+        },
+        "position": "Senior UX/UI Designer",
+        "type": "Full-time",
+        "location": "Moscow, Russia",
+        "date": "11/2021 - 09/2022",
+        "bullets": [
+          "Designed responsive interfaces for multiple banking products and internal systems; conducted user research and presented findings with actionable solutions",
+          "Maintained corporate UI Kit; mentored junior designers; contributed to both external and internal design systems"
+        ]
+      },
+      {
+        "company": {
+          "name": "Alpari",
+          "domain": "alpari.com",
+          "link": "https://en.wikipedia.org/wiki/Alpari_Group"
+        },
+        "position": "UI Engineer → Senior UI Engineer",
+        "type": "Full-time",
+        "location": "Moscow, Russia",
+        "date": "07/2013 – 02/2017  |  12/2019 - 11/2021",
+        "bullets": [
+          "Developed web UIs, dashboards, and internal monitoring tools for marketing and operational metrics",
+          "Built and maintained UI component libraries; led UI architecture decisions for internal tooling; mentored junior team members"
+        ]
+      },
+      {
+        "company": {
+          "name": "ICIE / MIPT",
+          "domain": "inevm.ru / mipt.ru",
+          "link": "https://www.inevm.ru/en/index.php"
+        },
+        "position": "Software Engineer",
+        "type": "Full-time + Part-time",
+        "location": "Moscow, Russia",
+        "date": "03/2017 - 11/2019",
+        "bullets": [
+          "Full-stack development across backend services, data pipelines, and frontend UI (Symfony → Laravel, PHP, Python, PostgreSQL, JavaScript)",
+          "Built data visualization tools — charts, graphs, dashboards — using D3.js, JavaScript Canvas, and SVG for academic research teams (MIPT)"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "name": "Moscow State University of Instrument Engineering and Computer Science",
+    "specialisation": "Computers, complex systems and networks",
+    "date": "06/2010",
+    "degree": "Bachelor of Computer Science"
+  },
+  "licensesCertifications": {
+    "title": "Licenses & Certifications",
+    "name": "Principles of UX/UI Design",
+    "teacher": "Meta",
+    "link": "https://coursera.org/verify/P3XXWC4RCESJ"
+  }
 }

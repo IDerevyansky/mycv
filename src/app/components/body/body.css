@@ -1,13 +1,10 @@
-
-.bodyMainContainer{
-    @apply
-    flex
-    justify-center
+.bodyMainContainer {
+  @apply flex
+    justify-center;
 }
 
-.bodyContainer{
-    @apply
-    container
+.bodyContainer {
+  @apply container
     border
     rounded-lg
     my-2
@@ -22,84 +19,89 @@
     border-[#EBEDEF]
     bg-[#F8FAFC]
     2xl:w-[1024px]
-    xl:w-[1024px]
-
+    xl:w-[1024px];
 }
 
-.personalInfoBox{
-    @apply
-    flex
+.personalInfoBox {
+  @apply flex
     flex-col
-    text-center
+    text-center;
 }
 
-.contactInf{
-    @apply
-    flex
-    flex-col
-    sm:flex-row
-    sm:gap-6
+.contactInf {
+  @apply flex
+    flex-wrap
+    items-baseline
     justify-center
-    gap-2
-    mt-4
+    gap-x-4
+    gap-y-1
+    mt-4;
 }
 
-.title{
-    @apply
-    border-b
-    text-slate-200
+.title {
+  @apply border-b
+    text-slate-200;
 }
 
-.block{
-    @apply
-    mt-6
+.block {
+  @apply mt-6;
 }
-.company-position-dateExp{
-    @apply
+.summaryBox {
+  @apply mt-4
     flex
-    flex-row
-    justify-between
+    flex-col
+    gap-3;
 }
 
-.company-positionExp{
-    @apply
-    flex
-    /* min-w-max */
+.expBox {
+  @apply mt-5;
+}
+
+.expCompanyLine {
+  @apply flex
     flex-col
     md:flex-row
-    md:gap-2
-    gap-0
-
+    md:justify-between;
 }
 
-.dateExp{
-    @apply
-    text-right
+.expLocation {
+  @apply text-gray-500
+    text-sm
+    md:text-base
+    md:text-inherit;
 }
 
-.expBox{
-    @apply
-    mt-5
+.expPositionLine {
+  @apply flex
+    flex-col
+    md:flex-row
+    md:justify-between
+    mt-0.5;
 }
 
-.descriptionExp{
-    @apply
-    mt-2
+.expDate {
+  @apply text-sm
+    md:text-base
+    md:font-bold;
 }
 
-.eduBox{
-    @apply
-    flex
+.expBullets {
+  @apply list-disc
+    pl-5
+    space-y-1
+    mt-2;
+}
+
+.eduBox {
+  @apply flex
     flex-row
     justify-between
-    mt-5
+    mt-5;
 }
 
-.fontEdu{
-    @apply
-    font-semibold
+.fontEdu {
+  @apply font-semibold;
 }
 
-.leftSideEdu{
-
+.leftSideEdu {
 }
